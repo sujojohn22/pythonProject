@@ -130,7 +130,7 @@ if __name__ == "__main__":
 
 
     account_name = "testazurefileshareassure"
-    account_key = "kudOcqviviQbUmIKlHWGZbeoK9kcQY7D0pGyibPfIPmqaOK6NmXr0optPqmAvFE84iBN1lOcadVM+ASt4ptq6g=="
+    account_key = "beoK9kcQY7D0pGyibPfIPmqaOK6NmXr0optPqmAvFE84iBN1lOcadVM+ASt4ptq6g=="
     share_name = "fileshare-storagefolder"
     Dest_directory_name = "Event102Directory"
     local_folder_path = r"C:\learn\AzureStorageTesting"
